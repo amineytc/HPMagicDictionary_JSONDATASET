@@ -1,0 +1,312 @@
+[
+  {
+    "spell": "Aberto",
+    "explanation": "Opens locked doors",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Accio",
+    "explanation": "Summons objects",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Aguamenti",
+    "explanation": "Summons water",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Alohomora",
+    "explanation": "Unlocks objects",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Anapneo",
+    "explanation": "Clears someone's airway",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Aparecium",
+    "explanation": "Reveals secret, written messages",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Ascendio",
+    "explanation": "Propels someone into the air",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Avis",
+    "explanation": "Conjures a small flock of birds",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/A.jpg"
+  },
+  {
+    "spell": "Bat Bogey Hex",
+    "explanation": "570 Kilokalori",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/B.jpg"
+  },
+  {
+    "spell": "Bombardo",
+    "explanation": "Creates an explosion",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/B.jpg"
+  },
+  {
+    "spell": "Brackium Emendo",
+    "explanation": "Heals broken bones",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/B.jpg"
+  },
+  {
+    "spell": "Confundo",
+    "explanation": "Known as the Confundus Charm",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/C.jpg"
+  },
+  {
+    "spell": "Conjunctivitis Curse",
+    "explanation": "Affects the eyes and sight of a target",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/C.jpg"
+  },
+  {
+    "spell": "Crinus Muto",
+    "explanation": "Changes hair color and style",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/C.jpg"
+  },
+  {
+    "spell": "Diffindo",
+    "explanation": "Used to precisely cut an object",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/D.jpg"
+  },
+  {
+    "spell": "Disillusionment Charm",
+    "explanation": "Causes the target to take on the appearance of its surroundings",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/D.jpg"
+  },
+  {
+    "spell": "Engorgio",
+    "explanation": "Causes rapid growth in the targeted object",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/E.png"
+  },
+  {
+    "spell": "Episkey",
+    "explanation": "Heals minor injuries",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/E.png"
+  },
+  {
+    "spell": "Expecto patronum",
+    "explanation": "The Patronus Charm is a powerful projection of hope and happiness that drives away Dementors; a corpeal Patronus takes the the respective animal form of the caster, while a non-corpeal appears as a wisp of light; at 13, Harry Potter was the youngest known witch or wizard to produce a corpeal Patronus",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/E.png"
+  },
+  {
+    "spell": "Erecto",
+    "explanation": "Allows a witch or wizard to build a structure, like a tent",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/E.png"
+  },
+  {
+    "spell": "Evanesco",
+    "explanation": "Vanishes objects",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/E.png"
+  },
+  {
+    "spell": "Expelliarmus",
+    "explanation": "Forces an opponent to drop whatever is in their possession",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/E.png"
+  },
+  {
+    "spell": "Ferula",
+    "explanation": "A healing charm that conjures wraps and bandages for wounds",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/F.jpg"
+  },
+  {
+    "spell": "Fiendfyre Curse",
+    "explanation": "Conjures destructive, enormous enchanted flames",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/F.jpg"
+  },
+  {
+    "spell": "Furnunculus Curse",
+    "explanation": "A jinx that causes a breakout of boils or pimples",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/F.jpg"
+  },
+  {
+    "spell": "Geminio",
+    "explanation": "Duplicates objects",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/G.png"
+  },
+  {
+    "spell": "Glisseo",
+    "explanation": "Transforms a staircase into a slide",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/G.png"
+  },
+  {
+    "spell": "Homenum Revelio",
+    "explanation": "Reveals the presence of another person",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/H.jpg"
+  },
+  {
+    "spell": "Immobulus",
+    "explanation": "Immobilizes living targets",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/I.jpg"
+  },
+  {
+    "spell": "Incarcerous",
+    "explanation": "Conjures ropes",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/I.jpg"
+  },
+  {
+    "spell": "Impervius",
+    "explanation": "Makes an object waterproof",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/I.jpg"
+  },
+  {
+    "spell": "Incendio",
+    "explanation": "Conjures flames",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/I.jpg"
+  },
+  {
+    "spell": "Langlock",
+    "explanation": "Causes the target's tongue to stick to the roof of their mouth",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/L.jpg"
+  },
+  {
+    "spell": "Legilimens",
+    "explanation": "Invading or navigating another's mind",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/L.jpg"
+  },
+  {
+    "spell": "Levicorpus",
+    "explanation": "Levitates the target by their ankle",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/L.jpg"
+  },
+  {
+    "spell": "Locomotor Mortis",
+    "explanation": "The Leg-Locker curse bounds the target's legs",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/L.jpg"
+  },
+  {
+    "spell": "Lumos",
+    "explanation": "Illuminates the caster's wand",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/L.jpg"
+  },
+  {
+    "spell": "Morsmordre",
+    "explanation": "Conjures and projects Lord Voldemort's Dark Mark",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/M.jpg"
+  },
+  {
+    "spell": "Mucus Ad Nauseam",
+    "explanation": "Inflicts an extreme runny nose or cold",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/M.jpg"
+  },
+  {
+    "spell": "Nox",
+    "explanation": "Reverses the lumos charm, extinguishing a wand's light",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/N.jpg"
+  },
+  {
+    "spell": "Oppugno",
+    "explanation": "Directs an object or person to attack a victim",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/O.jpg"
+  },
+  {
+    "spell": "Oculus Reparo",
+    "explanation": "Repairs eyeglasses",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/O.jpg"
+  },
+  {
+    "spell": "Obscuro",
+    "explanation": "Conjures a blindfold",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/O.jpg"
+  },
+  {
+    "spell": "Obliviate",
+    "explanation": "Erases the target's memory",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/O.jpg"
+  },
+  {
+    "spell": "Protean Charm",
+    "explanation": "Links objects together for better communication",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/P.png"
+  },
+  {
+    "spell": "Piertotum Locomotor",
+    "explanation": "Incantation used to bring to life inanimate objects and artifacts",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/P.png"
+  },
+  {
+    "spell": "Periculum",
+    "explanation": "Conjures flares/red sparks",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/P.png"
+  },
+  {
+    "spell": "Petrificus Totalus",
+    "explanation": "Temporarily freezes or petrifies the body of the target",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/P.png"
+  },
+  {
+    "spell": "Rictusempra",
+    "explanation": "A charm that disarms an opponent by tickling them",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/R.png"
+  },
+  {
+    "spell": "Reparo",
+    "explanation": "Fixes broken objects",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/R.png"
+  },
+  {
+    "spell": "Reparifors",
+    "explanation": "Heals magical ailments like poisoning or paralysis",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/R.png"
+  },
+  {
+    "spell": "Renneverate",
+    "explanation": "Awakens or revives the target",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/R.png"
+  },
+  {
+    "spell": "Reducio",
+    "explanation": "Shrinks an enlarged object to its regular size",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/R.png"
+  },
+  {
+    "spell": "Reducto",
+    "explanation": "Reduces the target to pieces",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/R.png"
+  },
+  {
+    "spell": "Spongify",
+    "explanation": "Softens the target",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/S.jpg"
+  },
+  {
+    "spell": "Silencio",
+    "explanation": "Silences the target",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/S.jpg"
+  },
+  {
+    "spell": "Serpensortia",
+    "explanation": "Conjures a live snake",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/S.jpg"
+  },
+  {
+    "spell": "Sectumsempra",
+    "explanation": "Inflicts severe lacerations and haemorrhaging on the target",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/S.jpg"
+  },
+  {
+    "spell": "Scourgify",
+    "explanation": "Cleans objects",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/S.jpg"
+  },
+  {
+    "spell": "Tarantallegra",
+    "explanation": "Aimed at the legs, causes uncontrollable dancing movement",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/T.jpg"
+  },
+  {
+    "spell": "Unbreakable Vow",
+    "explanation": "A magically binding contract that results in the death of whoever breaks it",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/U.jpg"
+  },
+  {
+    "spell": "Wingardium Leviosa",
+    "explanation": "Causes an object to levitate; but remember what Hermione said: 'It’s Wing-gar-dium Levi-o-sa, make the 'gar' nice and long.'",
+    "image": "https://raw.githubusercontent.com/amineytc/HPMagicDictionary_JSONDATASET/main/W.jpg"
+  }
+]
